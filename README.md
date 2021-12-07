@@ -1,5 +1,6 @@
 # R_examination
 **Tasks performed for the R exam at HU Berlin**
+(only with base R)
 
 **Exercise 1 Data Analysis**
 Take a datafile on mortgages for households, reorganize the data, evaluate it and perform couple of tests to check for various hypothesises.
